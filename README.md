@@ -1,0 +1,1 @@
+This project explores the relationship between sleep cycles and productivity, focusing on how the timing of sleep impacts sleep duration and overall well-being. The analysis reveals that when the sleep end time is delayed, the total sleep duration tends to increase. 
